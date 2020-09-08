@@ -197,7 +197,7 @@ export const showLocation = () => {
     });
 };
 export const showWeather = () => {
-    /*let weather = fetch('http://api.nea.gov.sg/api/WebAPI/?dataset=2hr_nowcast&keyref=781CF461BB6606AD4852D40C8C54E93C3C9B80B659C9CDF3',
+    /*let weather = fetch('http://api.nea.gov.sg/api/WebAPI/?dataset=2hr_nowcast&keyref=#hidden#',
         {
             method: 'POST',
         })
